@@ -1,2 +1,2 @@
 # Class-Repo-Pristine
-Accessible Codebase Optimized for Search Engines
+Student Bio of Phyllis Lataille
